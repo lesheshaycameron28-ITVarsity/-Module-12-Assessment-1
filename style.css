@@ -1,0 +1,24 @@
+#heading1{
+    color: grey;
+    text-align: center;
+}
+
+#paragraph1{
+    color: sienna;
+    text-align: center;
+
+}
+
+#paragraph2{
+    color: aqua;
+    text-align: center;
+}
+
+#usernameInput{
+    color: red;
+}
+
+p{
+    color: cornflowerblue;
+    font-size: large
+}
